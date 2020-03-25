@@ -1,0 +1,10 @@
+c:\users\mrt_b\source\repos\FolderBrowserDialog\FolderBrowserDialog\bin\Debug\FolderBrowserDialog.exe.config
+c:\users\mrt_b\source\repos\FolderBrowserDialog\FolderBrowserDialog\bin\Debug\FolderBrowserDialog.exe
+c:\users\mrt_b\source\repos\FolderBrowserDialog\FolderBrowserDialog\bin\Debug\FolderBrowserDialog.pdb
+c:\users\mrt_b\source\repos\FolderBrowserDialog\FolderBrowserDialog\obj\Debug\FolderBrowserDialog.csprojAssemblyReference.cache
+c:\users\mrt_b\source\repos\FolderBrowserDialog\FolderBrowserDialog\obj\Debug\FolderBrowserDialog.Form1.resources
+c:\users\mrt_b\source\repos\FolderBrowserDialog\FolderBrowserDialog\obj\Debug\FolderBrowserDialog.Properties.Resources.resources
+c:\users\mrt_b\source\repos\FolderBrowserDialog\FolderBrowserDialog\obj\Debug\FolderBrowserDialog.csproj.GenerateResource.cache
+c:\users\mrt_b\source\repos\FolderBrowserDialog\FolderBrowserDialog\obj\Debug\FolderBrowserDialog.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\FolderBrowserDialog\FolderBrowserDialog\obj\Debug\FolderBrowserDialog.exe
+c:\users\mrt_b\source\repos\FolderBrowserDialog\FolderBrowserDialog\obj\Debug\FolderBrowserDialog.pdb
